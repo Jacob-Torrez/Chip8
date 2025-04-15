@@ -3,7 +3,7 @@
 int main(int argc, char* args[]){
 
     Chip8 chip;
-    chip.execute(0x8016);
+    chip.run();
 
     return 0;
 }
