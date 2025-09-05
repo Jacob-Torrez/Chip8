@@ -1,6 +1,6 @@
 #include "Chip8.h"
 
-int main(int argc, char* args[]){
+int main(){
 
     Chip8 chip;
     chip.run();
